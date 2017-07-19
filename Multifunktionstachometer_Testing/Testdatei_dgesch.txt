@@ -1,0 +1,3 @@
+Sollwert: 13.1922 km/h
+Berechnet: 13.1922 km/h
+Test war erfolgreich!

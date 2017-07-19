@@ -1,0 +1,3 @@
+Sollwert: 2198.7 m
+Berechnet: 2198.7 m
+Test war erfolgreich!
